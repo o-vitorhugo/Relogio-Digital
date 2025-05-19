@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 📸 Preview
 
 <div align="center">
-  <img src="./Relogio-Digital/preview.png" alt="Preview do projeto" width="600">
+  <img src="./Relógio-Digital/preview.png" alt="Preview do projeto" width="600">
 </div>
 
 <br>
